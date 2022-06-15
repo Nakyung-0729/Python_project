@@ -11,7 +11,7 @@ END = '\033[0m'
 
 print(RED + '1.print' + END)
 
-# 1. 화면에 Hello + 본인이름 을 출력하시오.
+# 1. print Hello and name
 print('Hello ' + 'Nakyung', end='|')
 print()
 
