@@ -12,46 +12,39 @@ print("a의 값은", a)
 print("{}은 또 하나의 {}함수 {} 입니다".format('이것','print','사용법'))
 print("숫자도 되는지 해보죠 {}".format(10))
 print("괄호보다 입력이 더 많을 때는 {}".format('되네','궁금합니다'))
-# print("괄호보다 입력이 더 적을 때는 {} {}".format('되나요'))  # 괄호보다 입력이 더 많을 때는 오류
 
 print("#" * 40)
-print("이름:{name} 주소:{addr}".format(name='파이썬',addr='역삼동'))
+print("Name:{name} Adress:{addr}".format(name='python',addr='Yeoksamdong'))
 
 print("#" * 40)
 print('Day3 - if statement')
 a = 1
 
 if a > 0:
-    print("a는 양수")
+    print("a is positive")
 if a == 1:
-    print("a는 1임")
+    print("a is 1")
 if not a != 1:
-    print("a는 1이 아닌게 아님")
+    print("a is not 1")
 
 a = -100
 if a > 0:
-    print("a는 양수2")
-    # print("a는 양수3")  # 파이썬은 들여쓰기가 매우 중요
- # print("a는 양수4")  # 윗 줄보다 들여쓰기 레벨이 높아도 안됨
-print("a는 양수5")
+    print("a is positive 2")
+   
+print("a is positive 5")
 
-# if a < 0: print("a는 양수6")
-#          print("a는 양수7") # if문 줄에 실행문을 넣으면 아래줄을 잘 맞춰도 오류
 
-if a < 0 : print("a는 양수8"); print("a는 양수9")
-
-# if a = 2:  # 파이썬은 이런 것 허용하지 않는다.
-#    print("a는 2임")
+if a < 0 : print("a is positive 8"); print("a is positive 9")
 
 from colors import *
 print(RED + "if-elif-else" + END )
 e = -30
 if e > 0:
-    print("양수")
+    print("positive")
 elif e == 0:
     print("zero")
 else:
-    print("음수")
+    print("negative")
 
 
 
