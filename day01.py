@@ -1,8 +1,8 @@
 """
     Day1 : My First Program
     Version : 1.0
-    Created : 2022.5.12
-    Updated : 2022.5.12
+    Created : 2021.9.14
+    Updated : 2021.9.14
     Author : Nakyung Park
 """
 print('nkpark')
