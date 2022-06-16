@@ -19,9 +19,9 @@ print()
 print("Mary's cosmetics")
 print('Mary\'s cosmetics')
 
-# 3. 신씨가 도둑이야 라고 소리쳤다.
-print('신씨가 "도둑이야"라고 소리쳤다.')
-print('신씨가 \"도둑이야\"라고 소리쳤다.')
+# 3. Shin shouted 'It's a thief'
+print('Shin shouted "It's a thief".')
+print('Shin shouted \"It's a thief"\')
 
 # 4. when a = 'first', b = 'second', print 'first second'
 a = 'first'
