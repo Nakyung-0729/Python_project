@@ -7,11 +7,11 @@
 """
 print("Day3 - str.format")
 a = 1
-print("a의 값은", a)
+print("The value of a is", a)
 
-print("{}은 또 하나의 {}함수 {} 입니다".format('이것','print','사용법'))
-print("숫자도 되는지 해보죠 {}".format(10))
-print("괄호보다 입력이 더 많을 때는 {}".format('되네','궁금합니다'))
+print("{} is another {} function of {}".format('this','print','usage'))
+print("Let's see if it's a number {}".format(10))
+print("When there are more inputs than parentheses {}".format('it works','I wonder'))
 
 print("#" * 40)
 print("Name:{name} Adress:{addr}".format(name='python',addr='Yeoksamdong'))
