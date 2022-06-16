@@ -1,8 +1,8 @@
 """
     Day02 - print, input, operator
     Version : 1.0
-    Created : 2022.5.17
-    Updated : 2022.5.17
+    Created : 2021.9.23
+    Updated : 2022.9.23
     Author : Nakyung Park
 """
 RED = '\033[91m'
