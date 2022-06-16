@@ -1,8 +1,8 @@
 """
     Day03 - str, condition statement
     Version : 1.0
-    Created : 2022.5.19
-    Updated : 2022.5.19
+    Created : 2021.10.1
+    Updated : 2021.10.1
     Author : Nakyung Park
 """
 print("Day3 - str.format")
