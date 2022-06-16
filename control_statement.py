@@ -1,8 +1,8 @@
 """
     Day04 - control statement
     Version : 1.0
-    Created : 2022.5.20
-    Updated : 2022.5.20
+    Created : 2021.10.5
+    Updated : 2021.10.5
     Author : Nakyung Park
 """
 from colors import *
